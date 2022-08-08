@@ -6,7 +6,7 @@
 
 A repository (or repo) is the place where a project lives. You can "clone" a repository to your computer, taking a copy of it at that point in time. 
 
-![image](https://user-images.githubusercontent.com/99063625/183385353-443040df-9e5e-4fe5-a40c-2c86ff755e6b.png)
+![image](https://user-images.githubusercontent.com/99063625/183385497-730bf65e-f48e-4147-944f-20ee3c0b20d1.png)
 
 You can make changes to your cloned repository files. Note that in the first screenshot, the README for the SANS Foundations repo does not have a "CLONED IN" heading, but we can edit that heading into our cloned README file.
 
