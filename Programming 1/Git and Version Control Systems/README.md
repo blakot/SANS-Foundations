@@ -6,7 +6,7 @@
 
 A repository (or repo) is the place where a project lives. You can clone a repository to your computer, taking a copy of it at that point in time. 
 
-![image](https://user-images.githubusercontent.com/99063625/183388534-4d9ab200-223d-411f-85a4-768cbfccc128.png)
+![image](https://user-images.githubusercontent.com/99063625/183388656-a22455fe-6a19-49c0-9e30-1d1def574f3c.png)
 
 You can make changes to that copy...
 
