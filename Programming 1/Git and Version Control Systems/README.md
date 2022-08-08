@@ -10,5 +10,6 @@ A repository (or repo) is the place where a project lives. You can "clone" a rep
 
 You can make changes to your cloned repository files. Note that in the screenshot above, the README for the SANS Foundations repo does not have a "CLONED IN" heading, but we can edit that heading into our cloned README file.
 
+![image](https://user-images.githubusercontent.com/99063625/183384955-75d25c0b-daf3-4a68-abb7-5cd5d9112b46.png)
 ![image](https://user-images.githubusercontent.com/99063625/183382953-53cb8ccf-90d7-421f-b509-3282600aed17.png)
 
